@@ -73,5 +73,5 @@ The goal of the game is to **navigate each level safely**, defeat enemies, and r
 
 ## 👤 Author
 
-Osama  
+Osama Aly
 Computer Engineering / Game Development Student
